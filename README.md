@@ -1,7 +1,9 @@
 # Solyntek project
 MERN stack application that ensures user services and authentication
 
+# Prerequisites
 
+notice, you need client and server runs concurrently in different terminal session, in order to make them talk to each other
 
 ## How To Run
 
