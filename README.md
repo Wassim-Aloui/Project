@@ -3,7 +3,7 @@ MERN stack application that ensures user services and authentication
 
 # Prerequisites
 
-notice, you need client and server runs concurrently in different terminal session, in order to make them talk to each other
+Please be aware that both the client and server must be running concurrently in separate terminal sessions to establish communication between them
 
 ## How To Run
 
