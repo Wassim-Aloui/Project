@@ -1,0 +1,92 @@
+
+.mainDiv {
+    display: flex;
+    min-height: 789px;
+    align-items: center;
+    justify-content: center;
+  }
+
+ .cardStyle {
+    width: 550px;
+  }
+
+  .formTitle {
+    text-align: center;
+    font-family: 'Noyh', sans-serif; 
+    font-weight: 530; 
+    font-size: 40px;
+}
+
+#logo {
+    width: 180px;
+}
+
+.logoContainer {
+    text-align: center; 
+}
+
+
+  .inputDiv {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-bottom: 17px;
+
+  }
+  input {
+    height: 43px;
+    font-size: 15px;
+    border: none;
+    background-color: #f4f6fa; 
+    border-radius: 20px; 
+    padding: 0 50px;
+  }
+  
+
+  .submitButton {
+    width: 70%;
+    height: 50px;
+    margin: auto;
+    display: block;
+    border: none;
+    color: #fff;
+    background: linear-gradient(to right, #0171bc, #072853);
+    font-size: 16px;
+    border-radius: 20px;
+    font-weight: bold;
+    margin-top: 60px;
+  }
+
+.checkbox{  
+    vertical-align: middle;
+
+}
+
+.rememberMeContainer {
+    display: flex;
+    align-items: center;
+    color: #3d4046;
+    cursor: pointer;
+    
+}
+
+.rememberMeText {
+    margin-right: 108px;
+    
+}
+
+
+
+
+
+
+
+
+.error {
+    color: red;
+    font-size: 14px;
+    margin-top: 8px;
+    margin-left: 170px;
+  }
+
